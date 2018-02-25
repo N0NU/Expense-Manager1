@@ -1,0 +1,48 @@
+body
+{
+    margin: 0;
+    font-family: 'Mako';
+    background-size: cover;
+      background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.7)
+    ),
+    url(images/img2.jpg);
+}
+.container
+{
+    width: 100%;
+    position: relative;
+}
+h2
+{
+    position: absolute;
+    top 10px;
+    font-size: 25px;
+    width: 100%;
+    color: whitesmoke;
+}
+label
+{
+    color: whitesmoke;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-top: 50px;
+}
+.field
+{
+    background-color: transparent;
+    border: 1px solid #CCC;
+    width: 400px;
+    height: 80px;
+    color: whitesmoke;font-size: 24px;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px;
+    margin-top: 10px;
+    margin-left: 150px;
+}

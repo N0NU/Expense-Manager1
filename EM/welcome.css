@@ -1,0 +1,36 @@
+body{
+    background-color: #cccccc;
+    font-family: 'Mako';
+}
+.hed{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.imgm
+{
+    margin-left: 60px;
+    margin-top: 20px;
+    transition-delay: 0.3s;
+}
+.imgm:hover{opacity: 0.6;}
+.xt
+{
+position: absolute;
+    bottom: 8px;
+    right: 850px;
+}
+.mon
+{
+    position: relative;
+    color: black;
+}
+.ad{
+  position: absolute;
+    bottom: 8px;
+    right: 120px;  
+}
+.add{
+    position: absolute;
+    left: 750px;
+    top: 20px;
+}
